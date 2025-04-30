@@ -15,5 +15,5 @@ A modern analog and digital clock interface built with HTML, CSS, and JavaScript
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/analog-digital-clock.git
+git clone https://github.com/codewithbrain-socialmedia/Analog-Digital-Clock-.git
 cd analog-digital-clock
