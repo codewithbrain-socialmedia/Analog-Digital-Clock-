@@ -9,5 +9,5 @@ Made with ❤️ by Code With Brain
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/yourusername/analog-digital-clock.git
+git remote add origin https://github.com/codewithbrain-socialmedia/Analog-Digital-Clock-.git
 git push -u origin main
